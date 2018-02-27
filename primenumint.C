@@ -3,6 +3,7 @@
 int main()
 {
     int low, high, i, flag;
+    clrscr();
     printf("Enter two numbers(intervals): ");
     scanf("%d %d", &low, &high);
 
