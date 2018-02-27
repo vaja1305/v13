@@ -7,6 +7,7 @@ int main()
     scanf("%d %d", &low, &high);
 
     printf("Prime numbers between %d and %d are: ", low, high);
+    getch();
 
     while (low < high)
     {
